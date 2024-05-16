@@ -14,6 +14,6 @@ public class PersonDemo
     public static void main(String[]args){
         Ruchi  r = new Ruchi();
         r.hear();
-         r.speak(); 
+         r.speak();
 }
 }
