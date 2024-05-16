@@ -14,7 +14,7 @@
            for (j = 0; j < i; j++)
            if (a[i] == a[j])//check duplicates
                break;
-           if (i == j)
+           if (i == j)// no duplicstes then print ...
            System.out.print( a[i] + " ");
        }
 
